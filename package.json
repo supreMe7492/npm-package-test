@@ -1,0 +1,22 @@
+{
+  "name": "sup-npm-test",
+  "version": "1.0.0",
+  "description": "aa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supreMe7492/npm-package-test.git"
+  },
+  "keywords": [
+    "Sup"
+  ],
+  "author": "Supreme Raut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/supreMe7492/npm-package-test/issues"
+  },
+  "homepage": "https://github.com/supreMe7492/npm-package-test#readme"
+}
